@@ -1,8 +1,8 @@
-- 👋 Heyya peeps, this is Roshni here;) . I survive on coffee and anime.
+- 👋 Heyya peeps, this is Roshni here;)  I survive on coffee and anime.
 - 👀 I'm a rlly curious being. Currently wound myself in learning a few tech domains.
 
 # StudyHub
-- its for a hackathon. Resposive interfaces are developed using MERN stack.
+- its for a hackathon. Resposive interfaces are developed using MERN stack. P.S its under development.
 - [Visit my Study Group Website](https://studyhub-delta.vercel.app/)
 
 
