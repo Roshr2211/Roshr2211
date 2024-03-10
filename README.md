@@ -7,6 +7,12 @@
 - its for a hackathon. Resposive interfaces are developed using MERN stack. P.S its under development.
 - [Visit my Study Group Website](https://studyhub-delta.vercel.app/)
 
+# DDRN
+- Decentralized Disaster Relief Network. its a dApp made to securely transfer ethers in the form of donations during a calamity using the ethereum blockchain.
+- [Visit DDRN](https://ddrn.vercel.app/)
+
+
+
 
 <!---
 Roshr2211/Roshr2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
