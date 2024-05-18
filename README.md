@@ -6,7 +6,7 @@
 # A little about Me
 - 👋 Heyya, this is Roshni here;)
 -  I have a penchant for turning coffee into code. When I'm not typing away, you can catch me watching anime.
-- 👀 I'm a rlly curious being. Currently wound myself in learning a few tech stuff.
+- 👀 I'm a rlly curious being. Currently wound myself in learning.
 
 
 <p align="left">
