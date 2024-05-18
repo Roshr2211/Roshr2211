@@ -9,7 +9,6 @@
 - 👀 I'm a rlly curious being. Currently wound myself in learning a few tech stuff.
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
